@@ -1,0 +1,8 @@
+c:\users\jacka\documents\visual studio 2015\Projects\EasyColourTheme\EasyColourTheme\bin\Debug\EasyColourTheme.exe.config
+c:\users\jacka\documents\visual studio 2015\Projects\EasyColourTheme\EasyColourTheme\bin\Debug\EasyColourTheme.exe
+c:\users\jacka\documents\visual studio 2015\Projects\EasyColourTheme\EasyColourTheme\bin\Debug\EasyColourTheme.pdb
+c:\users\jacka\documents\visual studio 2015\Projects\EasyColourTheme\EasyColourTheme\obj\Debug\EasyColourTheme.Properties.Resources.resources
+c:\users\jacka\documents\visual studio 2015\Projects\EasyColourTheme\EasyColourTheme\obj\Debug\EasyColourTheme.csproj.GenerateResource.Cache
+c:\users\jacka\documents\visual studio 2015\Projects\EasyColourTheme\EasyColourTheme\obj\Debug\EasyColourTheme.exe
+c:\users\jacka\documents\visual studio 2015\Projects\EasyColourTheme\EasyColourTheme\obj\Debug\EasyColourTheme.pdb
+c:\users\jacka\documents\visual studio 2015\Projects\EasyColourTheme\EasyColourTheme\obj\Debug\EasyColourTheme.MainTheme.resources
